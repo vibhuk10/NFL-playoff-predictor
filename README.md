@@ -1,6 +1,6 @@
 # Predictive Elo Rating Method for NFL Playoffs
-# By Vibhu Krishnan
- Predicting the NFL playoffs is a huge challenge due to the many factors that
+ By Vibhu Krishnan
+Predicting the NFL playoffs is a huge challenge due to the many factors that
 significantly affect each NFL team. Therefore, the NFL has posed a real challenge to
 sports analysts working to make the best predictive models fit for the NFL. This paper
 proposes a weighted Elo ranking system that is adjusted to the significant factors of the
